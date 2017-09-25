@@ -12,6 +12,9 @@ pattern naming convention: `modulename` or `modulename/anything` (the search pat
 string beginning with the name of your module, anything you like after the first `/`).
 
 #### New Modules:
+* [**BBduk**](https://deweylab.github.io/RSEM/) - new module!
+    * Does stuff (Unalignable, Unique, Multi ...)
+    * Module written by [@blthree](https://github.com/blthree/)
 * [**RSEM**](https://deweylab.github.io/RSEM/) - new module!
     * Parse .cnt file comming from rsem-calculate-expression and plot read repartitions (Unalignable, Unique, Multi ...)
     * Module written by [@noirot](https://github.com/noirot/)

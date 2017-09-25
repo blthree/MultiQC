@@ -382,3 +382,7 @@ module_order:
             - RNA
             - DNA
             - methylation
+    - bbduk:
+        module_tag:
+            - RNA
+            - DNA
